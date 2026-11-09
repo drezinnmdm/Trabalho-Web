@@ -41,14 +41,14 @@ header .container {
 }
 
 .logo img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     object-fit: contain;
 }
 
 .logo h2 {
     color: #426b50;
-    font-size: 25px;
+    font-size: 35px;
 }
 
 nav a {
